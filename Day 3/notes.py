@@ -160,20 +160,18 @@ if int(height) >= 120:
         bill = 7
         print("Youth tickets are £7")
     ## Adding in the code here as another elif
-    elif age >= 45 and <= 55:
-        print("Everything is going to be ok, have a free ride on us!")
-    else:
-        bill = 15
-        print("Adult tickets are £15 buck little man, put that shit in my hand!")
+    elif age >= 45 and age <= 55:
+        print("Everything is going to be ok. Have a free ride on us!")
+else:
+    bill = 15
+    print("Adult tickets are £15 buck little man, put that shit in my hand!")
     
     wants_photo = input("Do you want a photo taken? type Y or N. ")
     if wants_photo == "Y":
         bill += 3
-
-    print(f"Your final bill £{bill}")
-
-else:
-    print("Sorry, you have to get taller to ride, looser.")
+        print(f"Your final bill £{bill}")
+    else:
+        print("Sorry, you have to get taller to ride, looser.")
 
 
 #EXERCISE Love Calculator 👇
