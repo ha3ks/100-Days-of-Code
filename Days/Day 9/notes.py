@@ -147,11 +147,3 @@ travel_log = [
   "total_visits": 5,
 },
 ]
-
-
-#EXERCISE Dictionary in List
-
-
-
-#Secret_Auction Instructions
-
