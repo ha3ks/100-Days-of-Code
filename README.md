@@ -19,5 +19,5 @@ Completed Projects:
 | 7   	| [Hangman_The_Game.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%207)     	|
 | 8   	| [Ceaser_Cipher.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%208)          |
 | 9   	| [Secret_Auction.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%209)         | 
-| 10   	| [Calc.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%210)                   | 
+| 10   	| [Calc.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2010)                   | 
 | 11   	| ? - Tomorrow              | 
