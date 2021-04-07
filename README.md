@@ -22,5 +22,6 @@ Completed Projects:
 | 10   	| [Calc.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2010)                  | 
 | 11   	| [PyJack.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2011)                | 
 | 12   	| [Guess_The_Number.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2012)      | 
-| 13   	| Debugging day [notes.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2013)              | 
-| 14   	| ? - Tomorrow              | 
+| 13   	| Debugging day [notes.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2013)   | 
+| 14   	| [Higher_or_Lower.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2014)       | 
+| 15   	| ? - Tomorrow              | 
