@@ -25,4 +25,5 @@ Completed Projects:
 | 13   	| Debugging day [notes.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2013)   | 
 | 14   	| [Higher_or_Lower.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2014)       | 
 | 15   	| Local Develompent Setup & [Coffee_Machine.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2015)             | 
-| 16   	| ? - Tomorrow              | 
+| 16   	| OOP & [CoffeeMachine_OOP.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2016)             | 
+| 17   	| ? - Tomorrow              | 
