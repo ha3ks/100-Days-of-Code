@@ -10,20 +10,22 @@ Completed Projects:
 
 | Day 	| Project                	|
 |-----	|------------------------	|
-| 1   	| [Band_Name_Generator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%201) 	|
-| 2   	| [Tip_Calculator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%202)      	|
-| 3   	| [Treasure_Island.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%203)     	|
-| 4    	| [Rock_Paper_Scissors.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%204) 	|
-| 5   	| [Password_Generator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%205)   	|
-| 6   	| [Escape_The_Maze.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%206)     	|
-| 7   	| [Hangman_The_Game.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%207)     	|
-| 8   	| [Ceaser_Cipher.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%208)          |
-| 9   	| [Secret_Auction.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%209)         | 
-| 10   	| [Calc.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2010)                  | 
-| 11   	| [PyJack.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2011)                | 
-| 12   	| [Guess_The_Number.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2012)      | 
-| 13   	| Debugging day [notes.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2013)   | 
-| 14   	| [Higher_or_Lower.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2014)       | 
-| 15   	| Local Develompent Setup & [Coffee_Machine.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2015)             | 
-| 16   	| OOP & [CoffeeMachine_OOP.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2016)             | 
-| 17   	| ? - Tomorrow              | 
+| 1   	| [Band_Name_Generator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%201) |
+| 2   	| [Tip_Calculator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%202) |
+| 3   	| [Treasure_Island.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%203) |
+| 4    	| [Rock_Paper_Scissors.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%204) |
+| 5   	| [Password_Generator.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%205) |
+| 6   	| [Escape_The_Maze.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%206) |
+| 7   	| [Hangman_The_Game.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%207) |
+| 8   	| [Ceaser_Cipher.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%208) |
+| 9   	| [Secret_Auction.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%209) | 
+| 10   	| [Calc.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2010) | 
+| 11   	| [PyJack.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2011) | 
+| 12   	| [Guess_The_Number.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2012) | 
+| 13   	| Debugging day [notes.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2013) | 
+| 14   	| [Higher_or_Lower.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2014) | 
+| 15   	| Local Develompent Setup & [Coffee_Machine.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2015) | 
+| 16   	| OOP & [CoffeeMachine_OOP.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2016) | 
+| 17   	| [OOP_dere_it_quiz.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2017) | 
+| 18   	| ? - Tomorrow | 
+
