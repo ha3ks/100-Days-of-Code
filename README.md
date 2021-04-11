@@ -27,5 +27,5 @@ Completed Projects:
 | 15   	| Local Develompent Setup & [Coffee_Machine.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2015) | 
 | 16   	| OOP & [CoffeeMachine_OOP.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2016) | 
 | 17   	| [OOP_dere_it_quiz.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2017) | 
-| 18   	| ? - Tomorrow | 
-
+| 18   	| [Hirst_Painting.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2018) | 
+| 19   	| ? - Tomorrow | 
