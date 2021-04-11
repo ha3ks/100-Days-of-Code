@@ -10,7 +10,7 @@ color_list = [(202, 164, 109), (238, 240, 245), (150, 75, 49), (223, 201, 135), 
 turtlebro.setheading(225)
 turtlebro.forward(300)
 turtlebro.setheading(0)
-number_of_dots = 1000
+number_of_dots = 100
 
 for dot_count in range(1, number_of_dots + 1):
     turtlebro.dot(20, random.choice(color_list))
