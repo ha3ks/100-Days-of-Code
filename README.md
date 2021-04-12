@@ -28,4 +28,5 @@ Completed Projects:
 | 16   	| OOP & [CoffeeMachine_OOP.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2016) | 
 | 17   	| [OOP_dere_it_quiz.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2017) | 
 | 18   	| [Hirst_Painting.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2018) | 
-| 19   	| ? - Tomorrow | 
+| 19   	| [Turtle_Race.py and an Etch_A_Sketch.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2019) | 
+| 20   	| ? - Tomorrow | 
