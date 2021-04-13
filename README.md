@@ -29,4 +29,5 @@ Completed Projects:
 | 17   	| [OOP_dere_it_quiz.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2017) | 
 | 18   	| [Hirst_Painting.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2018) | 
 | 19   	| [Turtle_Race.py and an Etch_A_Sketch.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2019) | 
-| 20   	| ? - Tomorrow | 
+| 20   	| [Py-thon_Game.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2021) | 
+| 21   	| ? - Tomorrow (it'll be day 20 part 2) | 
