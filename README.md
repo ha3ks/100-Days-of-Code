@@ -33,4 +33,5 @@ Completed Projects:
 | 21   	| [Py-thon_Game_2_Judgement_Day.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2021) | 
 | 22   	| [Pong.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2022) | 
 | 23   	| [Turtle_Crossy_Road.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2023) | 
-| 24   	| ? - Tomorrow | 
+| 24   	| Mail Merge Project & [Snake.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2024) | 
+| 25   	| ? - Tomorrow | 
