@@ -35,4 +35,5 @@ Completed Projects:
 | 23   	| [Turtle_Crossy_Road.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2023) | 
 | 24   	| Mail Merge Project & [Snake.py](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2024) | 
 | 25   	| [Squirrel_Census & US States Game](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2025) | 
-| 26   	| ? - Tomorrow | 
+| 26   	| [NATO-alphabet](https://github.com/ha3ks/100-Days-of-Code/tree/main/Days/Day%2026) - Tomorrow |
+| 27   	| ? - Tomorrow | 
